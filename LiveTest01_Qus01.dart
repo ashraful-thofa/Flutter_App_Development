@@ -1,6 +1,6 @@
 import 'dart:io';
 
-main() {
+void main() {
 
   print("Please enter the height of the Triangle:\n");
 
