@@ -13,7 +13,7 @@ This repository contains my submissions for the "App Development with Flutter" c
 
 ## Contents
 
-- [Assignments]((https://github.com/ashraful-thofa/Flutter_App_Development/tree/assignments))
+- [Assignments](https://github.com/ashraful-thofa/Flutter_App_Development/tree/assignments)
 - [Projects](#projects)
 - [Live Tests](#live-tests)
 - [Practice](#practice)
